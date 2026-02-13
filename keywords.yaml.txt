@@ -1,0 +1,15 @@
+hawkish:
+  "higher for longer": 4
+  "restrictive": 2
+  "inflation remains elevated": 4
+  "further tightening": 3
+  "not appropriate to cut": 4
+  "strong labor market": 2
+
+dovish:
+  "disinflation": 3
+  "inflation has eased": 4
+  "balance of risks": 2
+  "patient": 1
+  "rate cuts": 4
+  "policy adjustment": 2
